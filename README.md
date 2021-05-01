@@ -7,7 +7,7 @@
 ## Instalar porstgre (para usar desde terminal)
 * https://wiki.archlinux.org/title/PostgreSQL
 
-## Instalar Gui
+## Instalar Gui phppgAdmin
 *https://wiki.archlinux.org/title/PostgreSQL
 *  * Antes de instalar gui phppgAdmin
 *  *  * [Instalar server](https://wiki.archlinux.org/title/Apache_HTTP_Server)
@@ -22,3 +22,5 @@
 
 `systemctl [start|restart|stop] httpd`
 
+## Instalar Gui pgAdmin4
+* [probar este link](https://dev.to/tusharsadhwani/how-to-setup-postgresql-on-manjaro-linux-arch-412l)
