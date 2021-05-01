@@ -17,4 +17,8 @@
 *  *  * Antes de configurar PHP, instalar [php-pgsql](https://wiki.archlinux.org/title/PHP_(Espa%C3%B1ol)#PostgreSQL) 
 * Siguiendo esos pasos se deberia poder correr phppgAdmin
 
+## Levantar, reiniciar o para servicios
+`systemctl [start|restart|stop] postgresql`
+
+`systemctl [start|restart|stop] httpd`
 
