@@ -1,11 +1,12 @@
 # ARCHLINUX
 
-# postgreSql
-- Ya se creo usuario
-- falta crear db y demas
-
 ## Instalar porstgre (para usar desde terminal)
 * https://wiki.archlinux.org/title/PostgreSQL
+
+
+## Instalar Gui pgAdmin4 (mas rapido y simple)
+* [probar este link](https://dev.to/tusharsadhwani/how-to-setup-postgresql-on-manjaro-linux-arch-412l)
+
 
 ## Instalar Gui phppgAdmin
 *https://wiki.archlinux.org/title/PostgreSQL
@@ -21,6 +22,3 @@
 `systemctl [start|restart|stop] postgresql`
 
 `systemctl [start|restart|stop] httpd`
-
-## Instalar Gui pgAdmin4
-* [probar este link](https://dev.to/tusharsadhwani/how-to-setup-postgresql-on-manjaro-linux-arch-412l)
